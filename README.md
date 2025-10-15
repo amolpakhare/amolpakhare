@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolpakhare&label=Profile%20views&color=0e75b6&style=flat" alt="amolpakhare" /> </p>
 
-- 🔭 I’m currently working on [Blinkit_Analysis](https://github.com/amolpakhare/Blinkit_Analysis)
+- 🔭 I’m currently working on [Navayojana Project at EPPS infotech ltd, Vimanangar [Blinkit_Analysis](https://github.com/amolpakhare/Blinkit_Analysis)
 
 - 🌱 I’m currently learning **Tensorflow & PyTorch**
 
