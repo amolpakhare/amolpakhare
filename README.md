@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amol Pakhare</h1>
-<h3 align="center">💡 AI & Data Science Graduate | Aspiring Data Analyst | Driven by Curiosity & Insight</h3>
+<h3 align="center">💡 AI & Data Science Graduate | Python Developer | Aspiring Data Analyst | Driven by Curiosity & Insight</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amolpakhare&label=Profile%20views&color=0e75b6&style=flat" alt="amolpakhare" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Tensorflow & PyTorch**
 
-- 👯 I’m looking to collaborate on **Data Analytics & Science Projects**
+- 👯 I’m looking to collaborate on **Python and Data Analytics & Science Projects**
 
-- 🤝 I’m looking for help with **Data Analytic Projects**
+- 🤝 I’m looking for help with **Data Analytic Projects and Python Development**
 
 - 💬 Ask me about **Data Analytics**
 
